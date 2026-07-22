@@ -1,15 +1,15 @@
 // Task 1: Employee Login System
 
-// let username = prompt("Enter Username:");
-// let password = prompt("Enter Password:");
+let username = prompt("Enter Username:");
+let password = prompt("Enter Password:");
 
-// if (username === "deepak" && password === "12345") {
-    // console.log("Login Successful");
-    // alert("Login Successful");
-// } else {
-    // console.log("Invalid Username or Password");
-    // alert("Invalid Username or Password");
-// }
+if (username === "deepak" && password === "12345") {
+    console.log("Login Successful");
+    alert("Login Successful");
+} else {
+    console.log("Invalid Username or Password");
+    alert("Invalid Username or Password");
+}
 
 // Task 2: E-Commerce Discount
 
