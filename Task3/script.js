@@ -263,7 +263,7 @@ for (let i = 0; i < products.length; i++) {
 // Task 18: Employee Database
 
 let employee = {
-    name: "Rahul",
+    name: "DEEPAK",
     role: "Developer",
     salary: 50000
 };
