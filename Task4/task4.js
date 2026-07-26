@@ -16,7 +16,7 @@ console.log("CGPA:", cgpa);
 
 let employee = {
     employeeId: "EMP101",
-    employeeName: "Rahul",
+    employeeName: "Deepak",
     department: "IT",
     salary: 50000
 };
