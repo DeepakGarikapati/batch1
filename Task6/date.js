@@ -205,7 +205,7 @@ console.log("Delayed :", delivery.toLocaleTimeString());
 
 
 
-//TASK6-🎬 Movie Starts in 45 Seconds
+//TASK6- Movie Starts in 45 Seconds
 
 let movie = new Date();
 
@@ -217,7 +217,7 @@ console.log("Movie Starts:", movie.toLocaleTimeString());
 
 
 
-//TASK7- 📚 Assignment Deadline Extended
+//TASK7-Assignment Deadline Extended
 let deadline = new Date("2026-08-20");
 
 console.log("Old Deadline:", deadline.toDateString());
